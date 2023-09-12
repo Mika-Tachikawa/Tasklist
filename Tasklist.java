@@ -9,4 +9,3 @@ public class Tasklist {
     SpringApplication.run(Tasklist.class,args);
     }
   }
-}
